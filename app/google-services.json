@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074018999377",
+    "project_id": "ggugram",
+    "storage_bucket": "ggugram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074018999377:android:b0712e3d25cbfe3b88ec70",
+        "android_client_info": {
+          "package_name": "com.example.ggugram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074018999377-pslalpnu5rji2vt5bgjk527jtd5ggtop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIxKlrw6SpteASZbom7ZqyTl17hASetVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074018999377-pslalpnu5rji2vt5bgjk527jtd5ggtop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
